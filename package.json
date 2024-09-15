@@ -1,0 +1,21 @@
+{
+  "name": "codeforces-theme",
+  "displayName": "Codeforces Theme",
+  "description": "The theme from the submissions page of codeforces.com.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codeforces Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Codeforces Theme-color-theme.json"
+      }
+    ]
+  }
+}
